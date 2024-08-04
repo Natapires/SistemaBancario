@@ -1,0 +1,14 @@
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.AssemblyInfoInputs.cache
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.AssemblyInfo.cs
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.csproj.CoreCompileInputs.cache
+/home/natapires/Documents/Projetos/estudocsharp/bin/Debug/net8.0/estudocsharp
+/home/natapires/Documents/Projetos/estudocsharp/bin/Debug/net8.0/estudocsharp.deps.json
+/home/natapires/Documents/Projetos/estudocsharp/bin/Debug/net8.0/estudocsharp.runtimeconfig.json
+/home/natapires/Documents/Projetos/estudocsharp/bin/Debug/net8.0/estudocsharp.dll
+/home/natapires/Documents/Projetos/estudocsharp/bin/Debug/net8.0/estudocsharp.pdb
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.dll
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/refint/estudocsharp.dll
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.pdb
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/estudocsharp.genruntimeconfig.cache
+/home/natapires/Documents/Projetos/estudocsharp/obj/Debug/net8.0/ref/estudocsharp.dll
